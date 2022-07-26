@@ -3,5 +3,3 @@ The following project is a RESTful Web Service that allows authenticated users t
 
 ## Technologies
 This project was creates using Java, JAX-RS, and JPA (For the domain model). TomCat was used to run the program (i.e. it was the server of choice). 
-
-Test123
